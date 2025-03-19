@@ -16,6 +16,7 @@ En cas de mauvaise réponse, le jeu se termine et le score final est affiché.
 ## Prérequis
 
 - Python 3.x
+
 ### Code
 Le code du jeu de mémorisation se trouve dans le fichier [Jeu_de_mémorisation.py](https://github.com/Tengushadow/Portfolio/blob/master/Jeu_de_m%C3%A9morisation.py).
 
