@@ -18,3 +18,5 @@ Le but du jeu est de répondre correctement aux questions pour obtenir un score 
 Clonez ce dépôt ou téléchargez les fichiers nécessaires.
 Assurez-vous que Python 3.x est installé sur votre machine.
 Lancez le jeu en exécutant le fichier Calcul.py dans votre terminal.
+
+Python 'Calcul.py'
