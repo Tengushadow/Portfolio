@@ -1,0 +1,18 @@
+# Jeu de Calcul
+
+## Description
+Ce projet est un jeu de calcul qui propose des calculs avec différents niveaux de difficulté. 
+L'utilisateur choisit un niveau (Facile, Intermédiaire, Difficile) et doit répondre à des questions d'addition et de multiplication. 
+Le but du jeu est de répondre correctement aux questions pour obtenir un score élevé.
+
+## Fonctionnalités
+- Choix entre 3 niveaux de difficulté (Facile, Intermédiaire, Difficile).
+- Questions d'addition et de multiplication aléatoires.
+- Comptage de points et affichage d'un score à la fin.
+- Indication de la performance finale (parfait, pas mal, à revoir).
+
+## Prérequis
+- Python 3.x
+
+## Installation
+1. Clonez ce repository ou téléchargez-le sur votre machine :
