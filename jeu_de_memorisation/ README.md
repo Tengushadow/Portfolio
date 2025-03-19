@@ -16,12 +16,16 @@ En cas de mauvaise réponse, le jeu se termine et le score final est affiché.
 ## Prérequis
 
 - Python 3.x
+### Code
+Le code du jeu de mémorisation se trouve dans le fichier [Jeu_de_mémorisation.py](https://github.com/Tengushadow/Portfolio/blob/master/Jeu_de_m%C3%A9morisation.py).
+
+### Instructions 
 
 ## Installation
 
 1. Clonez ce dépôt ou téléchargez les fichiers nécessaires.
 2. Assurez-vous que Python 3.x est installé sur votre machine.
 3. Lancez le jeu en exécutant le fichier `jeu_memorisation.py` dans votre terminal.
-4. Lancez le fichier 'Jeu_de_mémorisation.py'
+
 ```bash
 python jeu_memorisation.py
