@@ -16,7 +16,7 @@ Un jeu de calcul avec différents niveaux de difficulté : facile, intermédiair
 
 3. [Conversion (cm-pouces)](https://github.com/Tengushadow/Portfolio/blob/master/conversion(cm-pouces).py)  
 Un programme de conversion entre centimètres et pouces.
-L'utilisateur peut choisir de convertir les valeurs en centimètres en pouces ou l'inverse.
+L'utilisateur peut choisir de convertir les valeurs en centimètres, en pouces ou l'inverse.
 
 ## Technologies
 
