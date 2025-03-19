@@ -24,7 +24,7 @@ Le code de conversion se trouve dans le fichier [Conversion.py](https://github.c
 
 1. Clonez ce dépôt ou téléchargez les fichiers nécessaires.
 2. Assurez-vous que Python 3.x est installé sur votre machine.
-3. Lancez le jeu en exécutant le fichier `` dans votre terminal.
+3. Lancez le jeu en exécutant le fichier `conversion(cm-pouces).py` dans votre terminal.
 
 ```bash
-python 
+python conversion(cm-pouces).py
