@@ -14,9 +14,8 @@ Le but du jeu est de répondre correctement aux questions pour obtenir un score 
 ## Prérequis
 - Python 3.x
 
-### Code
-Le code du jeu de mémorisation se trouve dans le fichier [Jeu_de_mémorisation.py](https://github.com/Tengushadow/Portfolio/blob/master/Jeu_de_m%C3%A9morisation.py).
-
+## Code
+Le code du jeu de calcul se trouve dans le fichier [Calcul.py](https://github.com/Tengushadow/Portfolio/blob/master/Calcul.py).
 
 ## Installation
 Clonez ce dépôt ou téléchargez les fichiers nécessaires.
